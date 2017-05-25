@@ -14,7 +14,7 @@ body {
 
 #header {
     font-family: 'Source Code Pro', monospace;
-    font-size: 300%;
+    font-size: 100%;
     color: white;
     -webkit-text-stroke: 0px black;
 }
