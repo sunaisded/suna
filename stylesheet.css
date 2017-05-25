@@ -13,7 +13,7 @@ body {
 }
 
 #header {
-    font-family: Source Code Pro;
+    font-family: 'Source Code Pro', monospace;
 
     font-size: 50%;
     color: white;
@@ -27,7 +27,7 @@ body {
 }
 
 #subheader {
-    font-family: Source Code Pro;
+    font-family: 'Source Code Pro', monospace;
 
     font-size: 50%;
     color: white;
@@ -48,7 +48,7 @@ body {
 }
 
 #menu > li > a {
-    font-family: 'Arial Black', sans-serif;
+    font-family: 'Source Code Pro', monospace;
 }
 
 a {
