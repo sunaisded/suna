@@ -15,7 +15,7 @@ body {
 #header {
     font-family: 'Source Code Pro', monospace;
 
-    font-size: 50%;
+    font-size: 300%;
     color: white;
     -webkit-text-stroke: 0px black;
 }
@@ -29,7 +29,7 @@ body {
 #subheader {
     font-family: 'Source Code Pro', monospace;
 
-    font-size: 50%;
+    font-size: 100%;
     color: white;
     -webkit-text-stroke: 0px black;
     margin: 30px;
