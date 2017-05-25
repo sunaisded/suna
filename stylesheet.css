@@ -13,8 +13,9 @@ body {
 }
 
 #header {
-    font-family: 'Arial Black', sans-serif;
-    font-size: 300%;
+    font-family: Source Code Pro;
+
+    font-size: 50%;
     color: white;
     -webkit-text-stroke: 0px black;
 }
